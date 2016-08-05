@@ -1,0 +1,36 @@
+_repo: The-Desired-Woman_6056
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harben, Will N. (Will Nathaniel)
+    alias: Harben, William Nathaniel
+    birthdate: 1858
+    deathdate: 1919
+    gutenberg_agent_id: '1923'
+    url: http://www.gutenberg.org/2009/agents/1923
+    wikipedia: https://en.wikipedia.org/wiki/William_Harben
+description: Title; Contents; PART I; Chapter I; Chapter II; Chapter III; Chapter
+  IV; Chapter V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter X; Chapter
+  XI; Chapter XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI; Chapter XVII;
+  Chapter XVIII; Chapter XIX; Chapter XX; PART II; Chapter I; Chapter II; Chapter
+  III; Chapter IV; Chapter V; Chapter VI; Chapter VII; Chapter VIII; Chapter IX; Chapter
+  X; Chapter XI; Chapter XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI;
+  Chapter XVII; Chapter XVIII; Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII;
+  Chapter XXIII -- Conclusion
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Georgia -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Bankers -- Fiction'
+- GITenberg
+title: The Desired Woman
+url: http://www.gutenberg.org/ebooks/6056
