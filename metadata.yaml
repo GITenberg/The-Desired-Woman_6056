@@ -1,5 +1,8 @@
 _repo: The-Desired-Woman_6056
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harben, Will N. (Will Nathaniel)
@@ -17,6 +20,8 @@ description: Title; Contents; PART I; Chapter I; Chapter II; Chapter III; Chapte
   X; Chapter XI; Chapter XII; Chapter XIII; Chapter XIV; Chapter XV; Chapter XVI;
   Chapter XVII; Chapter XVIII; Chapter XIX; Chapter XX; Chapter XXI; Chapter XXII;
   Chapter XXIII -- Conclusion
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6056#The-Desired-Woman
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
